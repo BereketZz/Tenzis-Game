@@ -17,5 +17,5 @@ Tenzis is a very simple and fast-paced dice game where players roll a set of dic
 
 #Contributing
 Contributions are welcome! 
-# To see Live Demo of the project
+# To see Live Demo of the game
 visit: https://tenzis-game.vercel.app/
