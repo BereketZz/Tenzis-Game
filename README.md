@@ -18,3 +18,4 @@ JavaScript: Core programming language for game logic
 #Contributing
 Contributions are welcome! 
 # To see Live Demo of the project
+visit: https://tenzis-game.vercel.app/
